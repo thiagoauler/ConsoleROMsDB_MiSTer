@@ -4,7 +4,7 @@
     "db_id": "console_roms_db",
     "default_options": {},
     "files": {
-        "games/Astrocade/boot.rom": {
+        "games/SNES/Teste.zip": {
             "hash": "7d25a26e5c4841b364cfe6b1735eaf03",
             "overwrite": false,
             "size": 808296,
